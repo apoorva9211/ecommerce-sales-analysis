@@ -29,7 +29,7 @@ A simple data analysis project that explores e-commerce sales data to uncover bu
 3. Ensure `sales.xlsx` is in the same folder.
 4. Run all the cells to view the analysis and charts.
 
-## 👩‍💻 About Me
+##  About Me
 
 **Apoorva**  
 BCA Graduate | Aspiring Data Analyst  
